@@ -1,0 +1,11 @@
+
+.page-navigation-container {
+    color: var(--text);
+    font-family: var(--font-abhaya-libre);
+    padding-top: 0.8rem;
+
+    a {
+        text-decoration: none;
+        color: var(--text);
+    }
+}

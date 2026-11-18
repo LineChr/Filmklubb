@@ -12,6 +12,12 @@ const nextConfig: NextConfig = {
       {
         pathname: "/api/**",
       },
+      {
+        pathname: "/moon.png",
+      },
+      {
+        pathname: "/sun.png",
+      },
     ],
   },
   webpack: (webpackConfig) => {
